@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Folusho05
+- 👋 Hi, I’m Folusho
+- Enjoying the process
 - 👀 I’m interested in Artificial Intelligence and Machine Leaening (AI/ML)
 - 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on any project
