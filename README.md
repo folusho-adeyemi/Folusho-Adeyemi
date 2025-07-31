@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Folusho Adeyemi!<br><br>🚀 **Computer Science Major** at Fisk University | **Software Engineer** | **Tech Enthusiast**<br><br> 💻 What I Do<br>- Passionate about building scalable and efficient software solutions.<br>- Focused on **AI**, **system design**, and creating **smart city solutions**.<br><br> 📚 Currently Exploring<br>- **Ethical AI** and its applications.<br>- **System design principles** for distributed systems.<br><br> 🤝 Community Impact<br>- Founder of the first **Google Developer Student Club** and **NSBE** chapter at my campus.<br>- Actively mentoring and supporting peers in their tech journeys.
 
-[My Portfolio](www.folusho-adeyemi.com)
+[My Portfolio](https://www.folusho-adeyemi.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/folusho-adeyemi) 
