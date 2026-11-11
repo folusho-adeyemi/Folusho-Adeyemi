@@ -1,16 +1,30 @@
-# 💫 About Me:
-👋 Hi, I’m Folusho Adeyemi!<br><br>🚀 **Computer Science Major** at Fisk University | **Software Engineer** | **Tech Enthusiast**<br><br> 💻 What I Do<br>- Passionate about building scalable and efficient software solutions.<br>- Focused on **AI**, **system design**, and creating **smart city solutions**.<br><br> 📚 Currently Exploring<br>- **Ethical AI** and its applications.<br>- **System design principles** for distributed systems.<br><br> 🤝 Community Impact<br>- Founder of the first **Google Developer Student Club** and **NSBE** chapter at my campus.<br>- Actively mentoring and supporting peers in their tech journeys.
+# Hi, I'm Folusho Adeyemi 👋
 
-[My Portfolio](https://www.folusho-adeyemi.com)
-[![CI](https://github.com/folusho-adeyemi/travel-agent/actions/workflows/main.yml/badge.svg)](https://github.com/folusho-adeyemi/travel-agent/actions/workflows/main.yml)
+I'm an AI engineer and builder who cares about using technology to create opportunities for people. I enjoy taking ideas from early prototypes to working products—and understanding where complex systems can fail.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/folusho-adeyemi) 
+I currently work on **AI engineering at Kredete**, developing agent workflows for financial products. Previously, I completed two software engineering internships at **Meta** and earned my B.S. in Computer Science from **Fisk University**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=folusho-adeyemi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=folusho-adeyemi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## What I'm working on
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **AI agents for finance (Kredete)** — designing agent workflows for financial features, including conversational stock trading, tool orchestration, evaluation, tracing, and explicit user confirmation for sensitive actions. This work is not yet publicly launched.
+- **[RoomPals](https://www.roompal.tech)** — an app I founded to help roommates coordinate chores, share accountability, and resolve disputes.
+- **[AI Travel Agent](https://github.com/folusho-adeyemi/travel-agent)** — a LangGraph-based travel planning agent with external tools, streaming responses, LangSmith traces, and an initial evaluation suite.
+- **PopChoice** — a movie recommendation project using embeddings, PostgreSQL, and pgvector to retrieve relevant recommendations.
+
+## What I'm exploring
+
+I'm particularly interested in **evaluating and securing tool-using AI agents**: prompt injection, scoped permissions, human confirmation, monitoring, and how to test systems beyond a fixed set of known cases.
+
+I also have a growing interest in robotics, IoT, and the intersection of software and the physical world.
+
+## Technologies
+
+**AI & backend:** Python, FastAPI, LangGraph, LangSmith, Langfuse, PostgreSQL, pgvector  
+**Product engineering:** TypeScript, React, React Native, Next.js  
+**Foundations:** API design, testing, CI/CD, distributed systems, and observability
+
+## Beyond work
+
+I believe we start living when we live for more than ourselves. That idea shapes how I approach engineering, mentorship, and building for my community.
+
+[Portfolio](https://www.folusho-adeyemi.com) · [LinkedIn](https://linkedin.com/in/folusho-adeyemi)
